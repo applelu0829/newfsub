@@ -6,7 +6,7 @@ log-level: info
 proxies:
 - name: 🇫🇮 FI 01 - xiaohe
   type: vless
-  server: 198.202.24.142
+  server: 172.67.67.89
   port: 2083
   uuid: a6ad7987-f17e-41fa-a752-72db9a725eb2
   udp: true
@@ -15,7 +15,7 @@ proxies:
   servername: vipfree.dr-ping.ir
   network: ws
   ws-opts:
-    path: /
+    path: /?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET
     headers:
       Host: vipfree.dr-ping.ir
 proxy-groups:
